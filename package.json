@@ -1,6 +1,6 @@
 {
   "name": "vinyl-imitate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Clone a vinyl file with new contents",
   "license": "MIT",
   "author": {
